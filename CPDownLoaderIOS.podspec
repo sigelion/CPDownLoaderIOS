@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CPDownLoaderIOS"
-  s.version      = "1.0.0"
+  s.version      = "1.0.5"
   s.summary      = "CPDownLoaderIOS Is A Downloader Tool."
 
   # This description is used to generate tags and improve search results.
